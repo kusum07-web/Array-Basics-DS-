@@ -1,0 +1,1 @@
+//WAF to calcuate the sum and product of all numbers in a array

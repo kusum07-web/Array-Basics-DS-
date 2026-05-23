@@ -1,0 +1,1 @@
+//WAF to  the max and min number of a array
